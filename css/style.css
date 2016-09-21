@@ -20,7 +20,7 @@ background-size: cover;
 }
 
 h1{
-font-family: 'Shadows Into Light', cursive;
+font-family: 'Shadows Into Light', normal;
 color: black;
 margin-left: 10px;
 font-size: 50px;
@@ -28,10 +28,10 @@ text-align: center;
 }
 
 h2{
-font-family: 'Indie Flower', cursive;
-color: white;
+font-family: 'Indie Flower', normal;
+color: black;
 margin-left: 10px;
-font-size: 20px;
+font-size: 15px;
 text-align: left; 
 }
 
